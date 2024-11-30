@@ -1,7 +1,7 @@
 Config = {}
 
-Config.LocalVersion = "0.0.1"
-Config.GitHubVersionURL = "https://github.com/hyper0939/AFK/tree/main"
+Config.LocalVersion = "0.0.2"
+Config.GitHubVersionURL = "https://raw.githubusercontent.com/hyper0939/AFK/refs/heads/main/Hyper-Afk/version.txt"
 -- Github
 
 -- AFK

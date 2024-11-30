@@ -13,7 +13,7 @@ local function CheckForUpdates()
 
             if githubVersion and githubVersion ~= Config.LocalVersion then
                 print("^3[Update-Checker]^0 There is a new version: ^2" .. githubVersion .. "^0 (current: ^1" .. Config.LocalVersion .. "^0)")
-                print("^3[Update-Checker]^0 Download the new version from GitHub: https://github.com/hyper0939/AFK/tree/main")
+                print("^3[Update-Checker]^0 Download the new version from GitHub: https://github.com/hyper0939/AFK/tree/main/Hyper-Afk")
             else
                 print("^3[Update-Checker]^0 The script is up to date (Version: ^2" .. Config.LocalVersion .. "^0)")
             end
